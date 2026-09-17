@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Sudesh Ravindra Pandit </p>
+    <p><strong>Email ID:</strong> sudeshpanditg6pcb@gmail.com </p>
+    <p><strong>College Name:</strong> Dhole Patil College Of Engineering,Pune </p>
+    <p><strong>Branch/Specialization :</strong> Electronics and Telecommunication Engineering </p>
+    <p><strong>College ID:</strong> EN22170156 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
+    <p><strong>Course Opted:</strong> PCB Designing </p>
     <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 Months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Mr.Paramesh Kumar </p>
+<p><strong>Trainer Email ID:</strong> parameshkumar432@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Hardware Design Engineer </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
