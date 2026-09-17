@@ -82,27 +82,7 @@ Overall, this internship taught me that PCB design isn't something you understan
 <!-- Project 1 -->
 <h3 id="project1">Project 1:USB-To-EtherCat-Adapter-Board </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
  This project was completed as part of my internship at SURE Trust, where I designed and developed a 2-layer USB to EtherCAT Adapter Board (V1.0) using KiCad, applying core PCB design concepts taught during the training. It focused on schematic design around an STM32F411 microcontroller and a LAN9252 EtherCAT slave controller, structured 2-layer routing with proper design-rule compliance, and implementing key features like USB communication, SPI/I2C interfacing, and dual RJ45 EtherCAT ports.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
