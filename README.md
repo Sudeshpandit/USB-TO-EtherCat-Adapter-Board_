@@ -126,10 +126,11 @@ During my internship, I took part in community-oriented initiatives promoting so
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
+ Kharadi ,Pune
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
+- These activities, alongside the core PCB design work, strengthened my sense of social responsibility and community engagement, reflecting SURE Trust's focus on holistic development beyond just technical skills.
 
 ### **Photos**
 
