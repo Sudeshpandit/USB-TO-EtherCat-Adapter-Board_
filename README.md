@@ -63,27 +63,24 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+When I started, I barely knew how a PCB actually gets made — the first few days were confusing, and I kept hitting DRC errors without understanding why. Things started clicking as I worked through mistakes instead of just reading about them.
+
+Over the internship I built up through 14 PCB projects, gaining hands-on experience with STM32 microcontrollers, SPI/I2C communication, and industrial protocols like EtherCAT — along the way strengthening my problem-solving (debugging DRC errors and routing conflicts), documentation, and the discipline of verifying a design before calling it done.
+
+My final project, the USB to EtherCAT Adapter Board, brought a lot of that learning together — it needed me to combine what I'd picked up about power supply design, layout planning, and following proper design rules into one board.
+
+Overall, this internship taught me that PCB design isn't something you understand by reading — you actually have to sit with the confusion for a while before it starts making sense.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
+<p><strong><a href="#project1">Project 1:</a></strong> USB-To-EtherCat-Adapter-Board </p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1:USB-To-EtherCat-Adapter-Board </h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
