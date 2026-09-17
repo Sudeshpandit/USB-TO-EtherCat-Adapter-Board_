@@ -85,7 +85,7 @@ Overall, this internship taught me that PCB design isn't something you understan
  This project was completed as part of my internship at SURE Trust, where I designed and developed a 2-layer USB to EtherCAT Adapter Board (V1.0) using KiCad, applying core PCB design concepts taught during the training. It focused on schematic design around an STM32F411 microcontroller and a LAN9252 EtherCAT slave controller, structured 2-layer routing with proper design-rule compliance, and implementing key features like USB communication, SPI/I2C interfacing, and dual RJ45 EtherCAT ports.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Sudeshpandit/USB-TO-EtherCat-Adapter-Board_/blob/main/SURE%20Trust%20Final%20Project%20%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
