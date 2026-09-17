@@ -112,18 +112,14 @@ Honestly, some sessions connected with me more than others depending on the topi
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship, I took part in community-oriented initiatives promoting social welfare and environmental sustainability, which fostered teamwork, empathy, and civic responsibility. As part of the Tree Plantation Drive, I planted trees to support environmental improvement, and I also assisted two elderly individuals with their daily tasks, providing support where needed. These activities, alongside the core PCB design work, strengthened my sense of social responsibility and community engagement, reflecting SURE Trust's focus on holistic development beyond just technical skills.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
+
+ Kharadi ,Pune
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
+ Kharadi ,Pune
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
