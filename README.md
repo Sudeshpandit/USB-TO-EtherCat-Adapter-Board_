@@ -104,9 +104,10 @@ Overall, this internship taught me that PCB design isn't something you understan
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+Alongside the technical PCB work, we had daily Life Skill Training (LST) and Soft Skill Training (SST) sessions, where a different guest speaker was invited almost every day. What stood out to me was who these speakers actually were — professionals holding senior positions at well-known companies — sharing real experience rather than just theory from a textbook.
+
+Honestly, some sessions connected with me more than others depending on the topic, but hearing people who've actually worked at that level talk about how they think, communicate, and handle real workplace situations gave me a different perspective than just focusing on the technical side of the internship. It made me realize that skills like communication, confidence, and how you present yourself matter just as much as technical ability when it comes to actually working in the industry.
+
 ---
 
 ## **Community Services**
